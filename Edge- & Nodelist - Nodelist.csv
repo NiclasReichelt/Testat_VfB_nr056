@@ -1,0 +1,24 @@
+id,name,education,committee,position,representation,age,type
+Thomas,Thomas Hitzslberger,1,1,1,4,1,1
+Tobias,Tobias Keller,2,1,3,"3,5",1,1
+Oliver,Oliver Schraft,2,1,3,5,3,1
+Claus,Claus Vogt,2,2,1,"2, 1",3,1
+Wilfried,Wilfired Porth,2,2,2,2,4,1
+Rainer,Rainer Adrion,2,2,3,3,4,1
+Hartmut,Hartmut Jenner,2,2,3,2,3,1
+Franz,Franz Reiner,2,2,2,2,3,1
+Bertram,Dr. Bertram Sugg,3,2,3,1,3,1
+VfBAG,VfB Stuttgart 1893 AG,NA,NA,NA,NA,NA,2
+VfBeV,VfB Stuttgart 1893 e.V.,NA,NA,NA,NA,NA,2
+Daimler,Daimler AG & Tochtergesellschaften,NA,NA,NA,NA,NA,2
+Bosch,Robert Bosch GmbH,NA,NA,NA,NA,NA,2
+Magnus,Bundesstiftung Magnus Hirschfeld,NA,NA,NA,NA,NA,2
+Akademie,Deutsche Akademie fuer Fussball-Kultur,NA,NA,NA,NA,NA,2
+Kommission,Kommission Clubmedien des DFL,NA,NA,NA,NA,NA,2
+Fair,Verein FC PlayFair!,NA,NA,NA,NA,NA,2
+Intesia,Intesia Group Holding GmbH,NA,NA,NA,NA,NA,2
+Hanns,Hanns Martin Schleyer-Stiftung,NA,NA,NA,NA,NA,2
+SWM,Suedwestmetall,NA,NA,NA,NA,NA,2
+Kaercher,Alfred Kaercher SE & Co. KG.,NA,NA,NA,NA,NA,2
+Gerlingen,Fanclub Courage Gerlingen,NA,NA,NA,NA,NA,2
+11hilft,11hilft e. V.,NA,NA,NA,NA,NA,2

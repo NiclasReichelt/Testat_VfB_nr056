@@ -1,0 +1,21 @@
+CODEBUCH,
+,
+Wert,Kommentar
+,
+edgelist,
+from,"definiert den Sender in gerichteten Netzwerken. Entspricht ID in der Nodelist. Keine Sonderzeichen, nur ein Wort"
+to ,"definiert den Empfänger in ungerichteten Netzwerken. Entspricht ID in der Nodelist. Keine Sonderzeichen, etc. "
+relation,Art der Verbindung Vorstandsmitglied/Präsident (1) Mitglied des Aufsichtsrates/Präsidiums (2) Mitglied (3) Sponsor (4)  
+weight,"Position innerhalb der relation und Gewichtung dieser. Niedrige Position, z.B. Mitglied/Nebensponsor (1) bis Hohe Position, z.B. Vorstand/Hauptsponsor (3)"
+,
+nodelist,
+id,"eindeutige Identifikation jedes einzelnen Knotens (vertex), der erfasst wird.  "
+name,Name oder Bezeichnung des Knotens. 
+type,dichotome Ausprägung: Person (1) und Organisation (2)
+education,Bildungsgrad  Schulabschluss (1) Studium (2) Promotion (3)
+committee,Vorstandsmitglied (1) Aufsichtsratmitglied (2)
+position,Vorsitz (1) Stellverteter (2) Mitglied (3)
+representation,Funktion innerhalb VfB Gremien. Fan-/Vereinskultur (1) Wirtschaft (2) Sport (3) Finanzen (4) Kommunikation (5)
+age,Alter des Mitglieds. Unter 40 (1) 40-50 (2) 51 - 60 (3) 61 - 70 (4) Über 70 (5)
+,
+NA,definiert fehlende Werte
